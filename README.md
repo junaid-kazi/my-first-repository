@@ -1,2 +1,5 @@
 # my-first-repository
-this is my first repository on github
+This is my first repository on github.
+
+# Guidelines
+You can add your cool codes here.
